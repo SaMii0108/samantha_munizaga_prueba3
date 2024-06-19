@@ -1,5 +1,5 @@
+#https://github.com/SaMii0108/samantha_munizaga_prueba3.git#
 import csv
-
 def categoria(puntos):
     if puntos>=0 and puntos<=40:
         cal="Amateur"
